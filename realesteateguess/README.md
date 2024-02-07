@@ -28,4 +28,5 @@ To use the Multiple Linear Regression model in this repository:
 1. Clone the repository.
 2. Open and explore the provided Jupyter Notebook (`multiple_linear_regression.ipynb`).
 3. Understand the principles of Multiple Linear Regression and how it can be applied.
+   Cengizhan BAYRAM
 
