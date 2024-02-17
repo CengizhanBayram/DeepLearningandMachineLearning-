@@ -36,13 +36,3 @@ Kullanıcı tabanlı işbirlikçi filtreyi öneri sisteminizde uygulamak için a
 1. Kullanıcıların tercihleri veya davranışlarına dayanarak benzerlikleri hesaplayın.
 2. Bir hedef kullanıcı için öneriler oluşturmak için en benzer kullanıcıların beğendiği içerikleri seçin.
 
-## Örnek
-
-```python
-# Kullanıcı tabanlı işbirlikçi filtrelme önerisi için örnek Python kodu
-
-# Benzerlik hesaplama
-benzerlik_matrisi = benzerlik_hesapla(tercihler)
-
-# Hedef bir kullanıcı için öneriler oluşturma
-oneriler = oneriler_olustur(hedef_kullanici, benzerlik_matrisi)
