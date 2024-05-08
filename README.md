@@ -1,1 +1,2 @@
-Bu reponun amacı makine öğrenmesi ve yapay zeka tekniklerinin kullanılıp öğrenmektir aldığım udemy kursu ile beraber gidip öğreniyorum
+Bu reponun amacı makine öğrenmesi ve yapay zeka tekniklerinin kullanılıp öğrenmektir aldığım udemy kursu ve kendi emeğimle yazıp öğrenmek
+
